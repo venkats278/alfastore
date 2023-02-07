@@ -1,0 +1,12 @@
+{
+  "targetDirectory":"./source_logs",
+  "targetFile":"ise-psc.log",
+  "targetStatement":"Error5",
+  "commandsToBeExecuted":"echo 'Hello', echo 'Bye'",
+  "scriptToBeExecuted": {
+    "name": "end_script_example.sh",
+    "env": "bash"
+  },
+  "duration":5,
+  "frequency":1
+}

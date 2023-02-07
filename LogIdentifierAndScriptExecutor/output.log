@@ -1,0 +1,37 @@
+2020-09-13 15:51:22 Executing command echo 'Hello'
+Hello
+2020-09-13 15:51:22 Executing command echo 'Bye'
+Bye
+2020-09-13 15:51:22 Executing script end_script_example.py
+Executing User defined script after capturing target statement
+10
+Executed user defined script
+2020-09-13 15:56:30 Executing command echo 'Hello'
+Hello
+2020-09-13 15:56:30 Executing command echo 'Bye'
+Bye
+2020-09-13 15:56:30 Executing script end_script_example.py
+Executing User defined python script after capturing target statement
+10
+Executed user defined python script
+2020-09-13 15:57:17 Executing command echo 'Hello'
+Hello
+2020-09-13 15:57:17 Executing command echo 'Bye'
+Bye
+2020-09-13 15:57:17 Executing script end_script_example.sh
+2020-09-13 15:57:38 Executing command echo 'Hello'
+Hello
+2020-09-13 15:57:38 Executing command echo 'Bye'
+Bye
+2020-09-13 15:57:38 Executing script end_script_example.sh
+Executing User defined bash script after capturing target statement
+10
+Executed user defined bash script
+2020-09-13 15:58:05 Executing command echo 'Hello'
+Hello
+2020-09-13 15:58:05 Executing command echo 'Bye'
+Bye
+2020-09-13 15:58:05 Executing script end_script_example.py
+Executing User defined python script after capturing target statement
+10
+Executed user defined python script
